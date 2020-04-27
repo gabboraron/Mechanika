@@ -21,16 +21,19 @@ fájlok: [01Vektoralgebra.pdf](https://github.com/gabboraron/Mechanika/blob/mast
 
 ## ALAPFOGALMAK
 > Ebben a fejezetben megismerkedünk a modellalkotási megfontolásokkal, valamint átismételjük a vonatkoztatási rendszer, erő tulajdonságai és egyenértékűség fogalmakat.
+
 fájlok: [02Alapfogalmak, modellalkotás.pdf](https://github.com/gabboraron/Mechanika/blob/master/02Alapfogalmak%2C%20modellalkot%C3%A1s.pdf)
 
 ## AZ ERŐK FAJTÁI
 > Ebben a fejezetben megismerkedünk a koncentrált erők mellett a modelljeinkben használatos megoszló erőkkel
+
 fájlok: [03Megoszló és koncentrált erő.pdf](https://github.com/gabboraron/Mechanika/blob/master/03Megoszl%C3%B3%20%C3%A9s%20koncentr%C3%A1lt%20er%C5%91.pdf), [03Megoszló és koncentrált erő_ppt.pdf](https://github.com/gabboraron/Mechanika/blob/master/03Megoszl%C3%B3%20%C3%A9s%20koncentr%C3%A1lt%20er%C5%91_ppt.pdf)
 
 videó: [Koncentrált és megoszló erők 0:00:00-tól 0:01:10-ig](https://www.youtube.com/watch?v=Q56CYcI4pUE&feature=emb_title)
 
 ## ERŐ ÉS NYOMATÉK
 > Ebben a fejezetben megismerkedünk az erő vektoralgebrai megadásával és a nyomatékkal.
+
 fájlok: [04Az erő megadása, a nyomaték definiciója.pdf](https://github.com/gabboraron/Mechanika/blob/master/04Az%20er%C5%91%20megad%C3%A1sa%2C%20a%20nyomat%C3%A9k%20definici%C3%B3ja.pdf), [04Az erő megadása, a nyomaték definiciója_ppt.pdf](https://github.com/gabboraron/Mechanika/blob/master/04Az%20er%C5%91%20megad%C3%A1sa%2C%20a%20nyomat%C3%A9k%20definici%C3%B3ja_ppt.pdf), [M02_01_Ero_es_nyomateki_vektor_megadasa_MATLAB_kornyezetben.mlx](https://github.com/gabboraron/Mechanika/blob/master/M02_01_Ero_es_nyomateki_vektor_megadasa_MATLAB_kornyezetben.mlx)
 
 videótananyag: [erővektor megadása és tulajdonságai](https://www.youtube.com/watch?v=KFSZLEQ9vGQ), [nyomaték megadása és tulajdonságai](https://www.youtube.com/watch?v=oU2cHH06jfw), [02_01 Erő és nyomatéki vektor megadása MATLAB környezetben](https://www.youtube.com/watch?v=J2Hfy2Bt2wk)
@@ -54,6 +57,7 @@ videótananyag: [3 erő egyensúlya 1.rész](https://www.youtube.com/watch?v=Z-r
 
 ## SÍKBELI ERŐRENDSZEREK 1-2
 > Ebben a fejezetben megismerkedünk a közös metszéspontú és a párhuzamos hatásvonalú síkbeli erőrendszerek eredőjével.
+
 fájlok: [05Sikbeli erőrendszerek.pdf](https://github.com/gabboraron/Mechanika/blob/master/05Sikbeli%20er%C5%91rendszerek.pdf), [05Sikbeli erőrendszerek_ppt.pdf](https://github.com/gabboraron/Mechanika/blob/master/05Sikbeli%20er%C5%91rendszerek_ppt.pdf), [Mechanika_1_112_Sikbeli_erorendszerek_HM.pdf](https://github.com/gabboraron/Mechanika/blob/master/Mechanika_1_112_Sikbeli_erorendszerek_HM.pdf) [M03_01_Kozos_metszespontu_sikbeli_erorendszer_eredoje_MATLAB_kornyezetben.mlx](https://github.com/gabboraron/Mechanika/blob/master/M03_01_Kozos_metszespontu_sikbeli_erorendszer_eredoje_MATLAB_kornyezetben.mlx), [M03_02_Parhuzamos_sikbeli_erorendszer_eredoje_MATLAB_kornyezetben.mlx](https://github.com/gabboraron/Mechanika/blob/master/M03_02_Parhuzamos_sikbeli_erorendszer_eredoje_MATLAB_kornyezetben.mlx)
 
 videótananyag: [Közös metszéspontú síkbeli erőrendszer eredője](https://www.youtube.com/watch?v=giMmPc_Xf_M), [Párhuzamos síkbeli erőrendszer eredője](https://www.youtube.com/watch?v=etRnXpq0K_o), [
@@ -66,6 +70,7 @@ videótananyag: [Közös metszéspontú síkbeli erőrendszer eredője](https://
 
 ## ÁLTALÁNOS SÍKBELI ERŐRENDSZEREK
 > Ebben a fejezetben megismerkedünk általános síkbeli erőrendszerek eredőjével.
+
 fájlok: [06ÁLtalános síkbeli erőrendszer.pdf](https://github.com/gabboraron/Mechanika/blob/master/06%C3%81Ltal%C3%A1nos%20s%C3%ADkbeli%20er%C5%91rendszer.pdf), [06ÁLtalános síkbeli erőrendszer_ppt.pdf](https://github.com/gabboraron/Mechanika/blob/master/06%C3%81Ltal%C3%A1nos%20s%C3%ADkbeli%20er%C5%91rendszer_ppt.pdf)
 
 videótananyag: [Általános síkbeli erőrendszer eredője](https://www.youtube.com/watch?v=QJy-AG87JMc&feature=emb_title), [
