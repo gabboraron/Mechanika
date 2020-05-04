@@ -3,6 +3,7 @@
 >
 > Az elméleti anyag és a megoldott példák segítenek abban, hogy megértsük azokat a folyamatokat, melyek a méretezéshez szolgáltatnak információkat és jobban megismerhessük a körülöttünk lévő világot.
 
+> Ajánlott irodalom: [Dr. Timár Imre: Műszaki mechanika I.- Statika](https://github.com/gabboraron/Mechanika/blob/master/statika1.pdf) és még itt: [http://users.atw.hu/gepesz-lev/](http://users.atw.hu/gepesz-lev/)
 
 ## Bevezető
 [MATLAB bevezető](https://www.youtube.com/watch?v=DnMzCISS4Kw)
